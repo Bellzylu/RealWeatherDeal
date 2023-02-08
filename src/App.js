@@ -99,6 +99,7 @@ function App() {
             <a
               href="https://github.com/Bellzylu/RealWeatherDeal.git"
               target="_blank"
+              rel="noopener noreferrer"
             >
               Open source code {"  "}
             </a>
